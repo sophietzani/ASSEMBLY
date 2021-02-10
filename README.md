@@ -1,2 +1,2 @@
 # ASSEMBLY
-School projects at assembly
+Questions 1. Write a program that displays your name and your registration number in two consecutive lines on the QtSpim console. 2. Write a program that will ask the user to enter two integers, displaying the appropriate messages on the QtSpim console. It will then perform the subtraction operation of the second number from the first one and display the result, accompanied by an appropriate message (eg "Theresultofthesubtractionis"), on the console. To save the two numbers and the subtraction result use a total of two MIPS registers, $ t0 and $ t1.
